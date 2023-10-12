@@ -1,9 +1,14 @@
 header{
     background-color: lavender;
+    color: darkblue;
 }
 
 h2{
     background-color: blue;
-    color: darkgray;
+    color: white;
 }
 
+h3{
+    background-color: lightblue;
+    color: black;
+}
